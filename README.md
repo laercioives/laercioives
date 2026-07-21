@@ -20,12 +20,13 @@ Sou um pesquisador e desenvolvedor apaixonado por traduzir dados complexos em so
 Aqui estão alguns dos meus principais projetos científicos e aplicados em Ciência de Dados:
 
 ### 🏥 Saúde e Biomedicina
-*   **[Predição de Mortalidade por Doença de Chagas](#link-do-repositorio)**: Desenvolvimento de modelos preditivos para identificar fatores de risco e mortalidade em pacientes chagásicos utilizando Machine Learning.
-*   **[Predição de AVC (Acidente Vascular Cerebral)](#link-do-repositorio)**: Análise de dados clínicos e fatores de risco populacionais para predição precoce de eventos de AVC, lidando com o desafio de dados severamente desbalanceados.
-*   **[Detecção de Intensão de saída de Idosos do Leito (prevensão de quedas em hospitais)](#link-do-repositorio)**: Desenvolvimento de modelos baseados em  Machine Learning para prever a intensão de saída do leito de pessoas idosas. Tal previsão pode ser usada paevitar possíveis quedas. 
-
-### ⚙️ Engenharia e Indústria
-*   **[Detecção de Falhas em Motores CC](#link-do-repositorio)**: Solução de manutenção preditiva industrial utilizando algoritmos evolutivos/Machine Learning para identificar anomalias e falhas iminentes antes que elas ocorram.
+*   **[Predição de Mortalidade por Doença de Chagas](#https://github.com/laercioives/Doen-a-de-Chagas---Predi-o-de-Mortes-em-2-anos)**: Desenvolvimento de modelos preditivos para identificar fatores de risco e mortalidade em pacientes chagásicos utilizando Machine Learning.
+*   **[Predição de AVC (Acidente Vascular Cerebral)](#https://github.com/laercioives/Predi--o-de-AVC)**: Análise de dados clínicos e fatores de risco populacionais para predição precoce de eventos de AVC, lidando com o desafio de dados severamente desbalanceados.
+*   **[Detecção de Intensão de saída de Idosos do Leito (prevensão de quedas em hospitais)](#https://journals.sagepub.com/doi/abs/10.3233/JIFS-191971)**: Desenvolvimento de modelos baseados em  Machine Learning para prever a intensão de saída do leito de pessoas idosas. Tal previsão pode ser usada paevitar possíveis quedas. 
+*   **[Previsão de Absenteísmo em Consultas Médicas (Medical No-Show)](#https://github.com/laercioives/prevendo-faltas-em-consutas-medicas)**: Projeto Focado na previsão de ausência de pacientes em consultas agendadas.
+*
+*   ### ⚙️ Engenharia e Indústria
+*   **[Detecção de Falhas em Motores CC](#https://github.com/laercioives/New-Construtive-Particle-Swarm-Clustering)**: Solução de manutenção preditiva industrial utilizando algoritmos evolutivos/Machine Learning para identificar anomalias e falhas iminentes antes que elas ocorram.
 
 ---
 
